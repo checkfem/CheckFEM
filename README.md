@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# CheckFEM
+# <img src="CheckFEM_logo.png" width="48" height="48" align="center">&nbsp; CheckFEM
 
 **CheckFEM** is a specialized quality control tool for **Finite Element (FE) models**. It streamlines the validation process by parsing raw model data into a structured database, allowing for advanced automated checks and 3D visualization.
 
