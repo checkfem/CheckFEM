@@ -1,0 +1,32 @@
+LEGAL NOTICES AND THIRD-PARTY COMPONENTS
+
+This application uses the third-party components listed below. The full text of each license can be found in the /legal folder of the installation.
+
+1. Java Runtime Environment (JDK)
+    - Version: OpenJDK jdk8u472-b08 (Eclipse Adoptium / Temurin)
+    - License: GNU General Public License v2 with Classpath Exception (GPLv2+CE)
+    - Notice: The use of this OpenJDK distribution does not require the disclosure of your application's source code, thanks to the "Classpath" exception.
+    - Source: adoptium.net
+
+2. VTK (Visualization Toolkit)
+    - Version: vtk.jar + native DLLs v9.1.0
+    - License: BSD 3-Clause License
+    - Copyright: Copyright (c) Ken Martin, Will Schroeder, Bill Lorensen.
+    - Notice: This software uses the VTK visualization libraries in binary form.
+
+3. H2 Database Engine
+    - Version: h2-1.4.195.jar
+    - License: Mozilla Public License 2.0 (MPL 2.0) or Eclipse Public License 1.0 (EPL 1.0)
+    - Notice: The database engine is used as-is without modification.
+    - Source: https://h2database.com
+
+4. SwingX
+    - Version: swingx-all-1.6.4.jar
+    - License: GNU Lesser General Public License (LGPL) v2.1
+    - Notice: Swing extension library for the graphical user interface. In accordance with the LGPL, the use of the unmodified JAR is permitted in proprietary software.
+
+5. JavaCC & JTB
+    - Versions: javacc-6.0.jar and jtb-1.4.11.jar
+    - License: BSD License
+    - Copyright: JavaCC (c) 2003, Sun Microsystems. JTB (c) 1997-2011, Purdue University.
+    - Notice: Tools used for syntax analysis (Parser).
