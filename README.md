@@ -4,7 +4,7 @@
 
 <p align="center">
   <kbd>
-    <img src="pressure.png" width="800" alt="CheckFEM Interface">
+    <img src="CheckFEM_gui.png" width="800" alt="CheckFEM Interface">
   </kbd>
   <br>
   <em>CheckFEM Main Interface: 3D Visualization and Model Checking.</em>
