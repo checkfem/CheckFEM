@@ -29,9 +29,10 @@
 
 ## 📦 Getting Started (Demo)
 
-The release `.zip` package is ready-to-use and includes:
+The release `.zip` package is **standalone** and ready-to-use. It includes:
 *   📂 **Demo Models:** Sample files for both Ansys and Samcef to test the parser.
 *   ✅ **Checklists:** Pre-configured demo scripts to show how to automate model verification.
+*   🤖 **exe file:** Double-click to launch the application.
 
 ## ⚙️ How It Works
 
