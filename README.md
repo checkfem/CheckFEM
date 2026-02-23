@@ -3,9 +3,11 @@
 **CheckFEM** is a specialized quality control tool for **Finite Element (FE) models**. It streamlines the validation process by parsing raw model data into a structured database, allowing for advanced automated checks and 3D visualization.
 
 <p align="center">
-  <img src="VM.png" width="800" alt="CheckFEM 3D Visualization Interface">
+  <kbd>
+    <img src="pressure.png" width="800" alt="CheckFEM Interface">
+  </kbd>
   <br>
-  <em>Main interface showing VTK 3D visualization and model entities.</em>
+  <em>CheckFEM Main Interface: 3D Visualization and Model Checking.</em>
 </p>
 
 ## 🚀 Key Features
